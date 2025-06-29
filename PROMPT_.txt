@@ -1,0 +1,50 @@
+Você é um assistente especialista em Excel, documentação técnica e GitHub. Quero que você me ajude a criar um projeto completo no padrão de portfólio profissional para a DIO, sobre simulação de investimentos em fundos imobiliários.
+
+O que eu preciso:
+
+1. **Planilha de Excel Completa:**
+   - Simulador de investimento mensal em fundos imobiliários.
+   - Campos editáveis para:
+     - Valor do investimento mensal.
+     - Tempo de investimento (em anos).
+     - Taxa de rendimento mensal.
+   - Cálculo automático de:
+     - Patrimônio acumulado ao final do período (usando a função VF).
+     - Dividendos mensais estimados (1% do patrimônio acumulado).
+   - Tabela de cenários com simulação para 2, 5, 10, 20 e 30 anos.
+   - Cálculo automático do patrimônio e dividendos de cada cenário.
+   - Formatação visual agradável (cores, bordas, moeda).
+   - Destaque visual para campos editáveis.
+   - Gráfico simples de evolução do patrimônio (se possível).
+
+2. **Documentação Técnica no Formato README.md para GitHub:**
+   - Descrição do projeto.
+   - Objetivo.
+   - Funcionalidades da planilha.
+   - Capturas de tela (indicar onde colocar, imagens fictícias por enquanto).
+   - Instruções de uso.
+   - Tecnologias utilizadas.
+   - Aprendizados.
+   - Relação com o desafio da DIO.
+
+3. **Estrutura do Repositório Sugerida:**
+simulador-investimentos-fii-excel/
+├── README.md
+├── Simulador_Investimento_FII.xlsx
+└── images/
+├── captura1.png
+├── captura2.png
+
+
+4. **Importante:**
+- Linguagem simples e didática no README.
+- Código do Excel limpo, com uso correto de referências absolutas e relativas.
+- Considerar que o usuário final pode ter conhecimentos básicos em Excel.
+- A solução deve ser prática, funcional e visualmente organizada.
+
+5. **Formato de Entrega:**
+- Arquivo Excel gerado.
+- Arquivo README.md em Markdown.
+- Se possível, instrução de como organizar as imagens.
+
+Não quero apenas um arquivo solto, quero um projeto estruturado no padrão portfólio GitHub, para demonstrar conhecimento técnico e organização.
