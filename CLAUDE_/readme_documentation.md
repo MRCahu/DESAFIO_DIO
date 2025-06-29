@@ -161,8 +161,8 @@ simulador-fii/
 
 ## 📧 Contato
 
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- **GitHub**: [Seu GitHub](https://github.com/seu-usuario)
+- **LinkedIn**: [Mauro Cahu](https://www.linkedin.com/in/maurocahu)
+- **GitHub**: [MRCahu](https://github.com/MRCahu)
 - **Email**: seu.email@exemplo.com
 
 ## 📄 Licença
@@ -173,9 +173,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### 🏆 Desenvolvido para o Desafio DIO
 
-**Bootcamp**: [Nome do Bootcamp]  
-**Instrutor**: [Nome do Instrutor]  
-**Data**: [Data de Conclusão]
+**Bootcamp**: Formação Excel para Mercado Financeiro
+**Instrutor**: Mauro Cahu
+**Data**: 29/06/2025
 
 ---
 
